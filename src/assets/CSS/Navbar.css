@@ -13,6 +13,7 @@
 
 .navbar-links {
     display: flex;
+    list-style: none;
 }
 
 .navbar-links li{

@@ -1,0 +1,62 @@
+.Posto {
+    padding: 5vh 0vw;
+  }
+  
+  .Posto form {
+    display: grid;
+    justify-items: center;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 2vh;
+    background-color: aliceblue;
+  }
+  
+  .Posto span {
+    padding-top: 1vh;
+  }
+  
+  .Posto input {
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 3.5vh;
+    width: 18vw;
+    text-align: center;
+    font-size: 1em;
+  }
+
+  .Posto select {
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 3.5vh;
+    width: 18vw;
+  }
+
+  .Posto option{
+    font-size: 0.5em;
+  }
+  
+  .Posto button {
+    width: 18vw;
+    height: 5vh;
+    background-color: #ffb411;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-top: 5vh;
+    cursor: pointer;
+  }
+  
+  .Posto button:hover {
+  
+  }
+  
+  /* Remove as setas para todos os navegadores baseados em Webkit (Chrome, Safari, Edge) */
+  input[type="number"]::-webkit-outer-spin-button,
+  input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  /* Remove as setas no Firefox */
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }

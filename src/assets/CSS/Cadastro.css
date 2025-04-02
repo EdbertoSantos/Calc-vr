@@ -14,7 +14,9 @@
 
 .Cadastro select {
   height: 4vh;
-  padding: 1vh 5vw;
+  padding: 0 5vw;
   font-size: 1.2em;
   border-radius: 5px;
+  border: 1px solid;
+  background-color: tran;
 }

@@ -1,10 +1,10 @@
 {
-    "Teste":{
-        "teste1":[
-            {
-                "id": 1,
-                "nome":"TEste"
-            }
-        ]
+  "usuarios": [
+    {
     }
+  ],
+  "postos": [
+    {
+    }
+  ]
 }
