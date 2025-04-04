@@ -1,10 +1,21 @@
 {
   "usuarios": [
     {
+      "id": "1345",
+      "nome": "teste"
+    },
+    {
+      "id": "1346",
+      "nome": "testao",
+      "posto": ""
     }
   ],
   "postos": [
     {
+      "id": "db20",
+      "nomePosto": "CBMC",
+      "endereco": "Rua Amaro Coutinho 250",
+      "tipoVr": "FDS"
     }
   ]
 }

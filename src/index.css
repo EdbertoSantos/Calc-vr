@@ -1,3 +1,7 @@
+*{
+  font-family: "Poppins", system-ui;
+}
+
 body {
   margin: 0;
   padding: 0;

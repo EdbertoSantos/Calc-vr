@@ -10,8 +10,6 @@ const Cadastro = () => {
 
   return (
       <div className="Cadastro">
-        <h1>Bem-vindo à Cadastro</h1>
-        <h2>Escolha o Formulário</h2>
         <select
           name="formSelect"
           id="formSelect"

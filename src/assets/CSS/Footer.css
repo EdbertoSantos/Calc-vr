@@ -1,9 +1,10 @@
 .footer-container {
   background-color: #0000003a;
-  height: 5vh;
+  height: 7vh;
   display: grid;
   align-content: center;
   justify-items: center;
   color: white;
   backdrop-filter: blur(10px);
+  font-size: 0.7em;
 }

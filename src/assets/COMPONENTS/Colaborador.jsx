@@ -1,6 +1,4 @@
-import React from "react";
-import { Link } from "react-router-dom"; // Importando Link
-import { useState } from "react";
+import React,{ useState } from "react";
 import { toast, ToastContainer } from "react-toastify";
 
 import "../CSS/Colaborador.css";
