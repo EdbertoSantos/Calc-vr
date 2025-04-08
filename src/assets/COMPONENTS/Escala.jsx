@@ -31,7 +31,6 @@ const Escala = () => {
   }
 
   return (
-    <section>
       <div>
         {postos.length === 0 ? (
           <p>Não há postos disponíveis.</p>
@@ -45,7 +44,6 @@ const Escala = () => {
           </ul>
         )}
       </div>
-    </section>
   );
 };
 

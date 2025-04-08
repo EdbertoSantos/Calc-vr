@@ -35,7 +35,7 @@ const Home = () => {
           </select>
         </div>
       </header>
-      {selectdMonth && <Escala />}
+      <section className="escala-container">{selectdMonth && <Escala />}</section>
     </div>
   );
 };
